@@ -1,0 +1,5 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.bc filter=lfs diff=lfs merge=lfs -text
+edb6395ed2515b59d35b16a4ad26dd45 filter=lfs diff=lfs merge=lfs -text
+552c9bff0549f3239620d9a2b89c5187 filter=lfs diff=lfs merge=lfs -text
+*.cpp filter=lfs diff=lfs merge=lfs -text
